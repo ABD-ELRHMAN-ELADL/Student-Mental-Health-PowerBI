@@ -11,6 +11,8 @@ The dashboard helps identify the key factors affecting student success and suppo
 ## 🛠 Tools
 
 - Microsoft Power BI
+- Excel 
+- Tablau
 - Power Query
 - DAX
 - Data Modeling
